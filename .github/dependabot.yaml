@@ -1,0 +1,10 @@
+# Add dependabot.yaml for Node.js
+version: 2
+updates:
+  - allows:
+      - dependency-type: all
+        directory: /
+        package-ecosystem: npm
+        schedule:
+          interval: weekly
+        versioning-strategy: increase
