@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Siklid',
-  tagline: 'Siklid is cool',
+  tagline: 'The flashcard app that you are looking for',
   url: 'https://siklid.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
