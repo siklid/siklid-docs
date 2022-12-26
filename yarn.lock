@@ -2743,10 +2743,15 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001400, caniuse-lite@^1.0.30001426:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001426:
   version "1.0.30001431"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001431.tgz#e7c59bd1bc518fae03a4656be442ce6c4887a795"
   integrity sha512-zBUoFU0ZcxpvSt9IU66dXVT/3ctO1cy4y9cscs1szkPlcWb6pasYM144GqrUygUbT+k7cmUCW61cvskjcv0enQ==
+
+caniuse-lite@^1.0.30001400:
+  version "1.0.30001441"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001441.tgz#987437b266260b640a23cd18fbddb509d7f69f3e"
+  integrity sha512-OyxRR4Vof59I3yGWXws6i908EtGbMzVUi3ganaZQHmydk1iwDhRnvaPG2WaR0KcqrDFKrxVZHULT396LEPhXfg==
 
 ccount@^1.0.0:
   version "1.1.0"
@@ -3063,9 +3068,9 @@ copy-webpack-plugin@^11.0.0:
     serialize-javascript "^6.0.0"
 
 core-js-compat@^3.25.1:
-  version "3.26.0"
-  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.26.0.tgz#94e2cf8ba3e63800c4956ea298a6473bc9d62b44"
-  integrity sha512-piOX9Go+Z4f9ZiBFLnZ5VrOpBl0h7IGCkiFUN11QTe6LjAvOT3ifL/5TdoizMh99hcGy5SoLyWbapIY/PIb/3A==
+  version "3.27.0"
+  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.27.0.tgz#e2c58a89df6432a5f36f3fa34097e9e83e709fb6"
+  integrity sha512-spN2H4E/wocMML7XtbKuqttHHM+zbF3bAdl9mT4/iyFaF33bowQGjxiWNWyvUJGH9F+hTgnhWziiLtwu3oC/Qg==
   dependencies:
     browserslist "^4.21.4"
 
@@ -5165,9 +5170,9 @@ node-forge@^1:
   integrity sha512-dPEtOeMvF9VMcYV/1Wb8CPoVAXtp6MKMlcbAt4ddqmGqUJ6fQZFXkNZNkNlfevtNkGtaSoXf/vNNNSvgrdXwtA==
 
 node-releases@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.6.tgz#8a7088c63a55e493845683ebf3c828d8c51c5503"
-  integrity sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.8.tgz#0f349cdc8fcfa39a92ac0be9bc48b7706292b9ae"
+  integrity sha512-dFSmB8fFHEH/s81Xi+Y/15DQY6VHW81nXRj86EMSL3lmuTmK1e+aT4wrFCkTbm+gSwkw4KpX+rT/pMM2c1mF+A==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
